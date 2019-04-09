@@ -1,0 +1,70 @@
+{
+  "id": 1260098329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.0472,18.10324,-63.0472,18.10324",
+    "geom:latitude":18.10324,
+    "geom:longitude":-63.0472,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Industrie",
+    "gn:country_code":"MF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984603,
+    "gn:latitude":18.10324,
+    "gn:longitude":-63.0472,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Industrie",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Industrie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984603
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"358dca8a36fc8e0cbcf8877b9ff7ac67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1260098329,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260098329,
+    "wof:lastmodified":1537664562,
+    "wof:name":"Industrie",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.0472,
+    18.10324,
+    -63.0472,
+    18.10324
+],
+  "geometry": {"coordinates":[-63.0472,18.10324],"type":"Point"}
+}

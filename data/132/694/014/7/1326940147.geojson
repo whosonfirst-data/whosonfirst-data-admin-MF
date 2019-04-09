@@ -1,0 +1,67 @@
+{
+  "id": 1326940147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03606,18.07014,-63.03606,18.07014",
+    "geom:latitude":18.07014,
+    "geom:longitude":-63.03606,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Quartier D'Orleans Ouest",
+    "gn:country_code":"MF",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6985377,
+    "gn:latitude":18.07014,
+    "gn:longitude":-63.03606,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Quartier D\u2019Orleans Ouest",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985377
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"dbfef7100de23d52e748e8ddbd729a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1326940147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326940147,
+    "wof:lastmodified":1536892996,
+    "wof:name":"Quartier D'Orleans Ouest",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03606,
+    18.07014,
+    -63.03606,
+    18.07014
+],
+  "geometry": {"coordinates":[-63.03606,18.07014],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326740617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06015,18.08164,-63.06015,18.08164",
+    "geom:latitude":18.08164,
+    "geom:longitude":-63.06015,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Jardin des Dains",
+    "gn:country_code":"MF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6984592,
+    "gn:latitude":18.08164,
+    "gn:longitude":-63.06015,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Jardin des Dains",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jardin des Dains"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984592
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"6025662635209b45eebdce522ccf9776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1326740617,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326740617,
+    "wof:lastmodified":1537664562,
+    "wof:name":"Jardin des Dains",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06015,
+    18.08164,
+    -63.06015,
+    18.08164
+],
+  "geometry": {"coordinates":[-63.06015,18.08164],"type":"Point"}
+}

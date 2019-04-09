@@ -1,0 +1,70 @@
+{
+  "id": 1260197627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07099,18.08072,-63.07099,18.08072",
+    "geom:latitude":18.08072,
+    "geom:longitude":-63.07099,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Cripple Gate",
+    "gn:country_code":"MF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984585,
+    "gn:latitude":18.08072,
+    "gn:longitude":-63.07099,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Cripple Gate",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cripple Gate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984585
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"f782b62a2377eb594108e7b0fdd93fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1260197627,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260197627,
+    "wof:lastmodified":1537664562,
+    "wof:name":"Cripple Gate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07099,
+    18.08072,
+    -63.07099,
+    18.08072
+],
+  "geometry": {"coordinates":[-63.07099,18.08072],"type":"Point"}
+}

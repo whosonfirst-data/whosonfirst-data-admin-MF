@@ -1,0 +1,238 @@
+{
+  "id": 85673879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-06-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2016-06-22",
+    "geom:area":0.005828,
+    "geom:area_square_m":68505762.342398,
+    "geom:bbox":"-63.1468399726,18.0333914724,-63.0107315748,18.1221377626",
+    "geom:latitude":18.07762,
+    "geom:longitude":-63.055071,
+    "gn:id":"",
+    "iso:country":"MF",
+    "label:eng_x_preferred_longname":[
+        "St. Martin Overseas Collectivity"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "overseas collectivity"
+    ],
+    "lbl:latitude":18.081302,
+    "lbl:longitude":-63.0494,
+    "mps:latitude":18.081302,
+    "mps:longitude":-63.0494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cze_x_preferred":[
+        "Svat\u00fd Martin"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Martin"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Martin"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Martin"
+    ],
+    "name:fra_x_unknown":[
+        "MAF",
+        "MF"
+    ],
+    "name:fra_x_variant":[
+        "Collectivit\u00e9 de Saint-Martin",
+        "St-Martin",
+        "St. Martin",
+        "St.-Martin",
+        "\u00cele de Saint-Martin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30de\u30fc\u30c1\u30f3\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ub9c8\ud2f4 \uc12c"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Maarten Eiland"
+    ],
+    "name:nld_x_variant":[
+        "Eilandgebied Sint Maarten",
+        "Sint Maarten"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Martin"
+    ],
+    "name:pol_x_preferred":[
+        "Sint Maarten"
+    ],
+    "name:por_x_preferred":[
+        "Ilha de S\u00e3o Martinho"
+    ],
+    "name:por_x_variant":[
+        "S\u00e3o Martinho"
+    ],
+    "name:rum_x_preferred":[
+        "Insula Sf\u00e2ntul Martin"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de San Mart\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Martin"
+    ],
+    "name:unk_x_variant":[
+        "Arrondissement de Saint-Martin-Saint-Barth\u00e9lemy"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u4e01"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u9a6c\u4e01"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MAF",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"MAF-5145",
+    "ne:adm1_code":"MAF-5145",
+    "ne:admin":"Saint Martin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MF.SM",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5145",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Saint Martin",
+    "ne:gn_a1_code":"MF.3578419",
+    "ne:gn_id":"3578419",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Arrondissement de Saint-Martin-Saint-Barthelemy",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MAF",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MF-",
+    "ne:iso_a2":"MF",
+    "ne:labelrank":"20",
+    "ne:latitude":"18.07990000000",
+    "ne:longitude":"-63.07800000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":9,
+    "ne:name":"St. Martin",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"FR1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":56042305,
+    "ne:woe_label":"",
+    "ne:woe_name":"Saint-Martin",
+    "qs:a0":"Saint Martin",
+    "qs:a0_lc":"MF",
+    "qs:a1":"St. Martin",
+    "qs:a1_lc":"MAF-5145",
+    "qs:adm0":"Saint Martin",
+    "qs:adm0_a3":"MAF",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"53",
+    "statoids:area_mi":"20",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"Marigot",
+    "statoids:country":"MF",
+    "statoids:gec":"",
+    "statoids:hasc":"MF.SM",
+    "statoids:iso":"",
+    "statoids:name":"Saint Martin",
+    "statoids:population":"37630",
+    "statoids:timezone":"-4",
+    "statoids:type":"overseas collectivity of FR",
+    "wd:wordcount":3454,
+    "wof:belongsto":[
+        102191575,
+        1126128723,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":3578419,
+        "gp:id":56042305,
+        "hasc:id":"MF.SM",
+        "qs:id":482974,
+        "wd:id":"Q25596"
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"75d7c5c754150fcf3f9b60d322aa5e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "region_id":85673879
+        }
+    ],
+    "wof:id":85673879,
+    "wof:lang":[
+        "fra"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553558106,
+    "wof:name":"St. Martin",
+    "wof:parent_id":1126128723,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"overseas collectivity of FR",
+    "wof:population":37630,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[
+        85632737
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.14683997258663,
+    18.03339147243855,
+    -63.01073157480232,
+    18.1221377626477
+],
+  "geometry": {"coordinates":[[[-63.01756858522197,18.03339147243855],[-63.0858861905952,18.05851125129328],[-63.10700436046284,18.062109272425],[-63.10700436046284,18.06211985924415],[-63.10700436046284,18.06696198091072],[-63.11530514161893,18.06537506690586],[-63.13052324085481,18.0602481146588],[-63.13434811057681,18.05947500256934],[-63.14386959460609,18.0646833353677],[-63.14683997258663,18.07029857002306],[-63.14362545475092,18.07416413047031],[-63.11375891833939,18.07465241107997],[-63.09609941245787,18.0788028021077],[-63.08381100227592,18.08795807500519],[-63.07909095008722,18.10419342708502],[-63.07087154858306,18.11001211087029],[-63.05211341110498,18.11684804929808],[-63.031402147591,18.12189362189321],[-63.01764889198273,18.1221377626477],[-63.01793372256321,18.10053131756632],[-63.01109778593406,18.07074616170604],[-63.01073157480232,18.04083893456925],[-63.0175675123308,18.03339264515449],[-63.01756858522197,18.03339147243855]]],"type":"Polygon"}
+}

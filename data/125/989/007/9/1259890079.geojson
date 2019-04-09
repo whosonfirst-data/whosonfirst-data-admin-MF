@@ -1,0 +1,67 @@
+{
+  "id": 1259890079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.05298,18.06482,-63.05298,18.06482",
+    "geom:latitude":18.06482,
+    "geom:longitude":-63.05298,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Flagstaff",
+    "gn:country_code":"MF",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6985390,
+    "gn:latitude":18.06482,
+    "gn:longitude":-63.05298,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Flagstaff",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985390
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"e41726d55b1fa2a96ee0f65c94d40ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1259890079,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259890079,
+    "wof:lastmodified":1536770034,
+    "wof:name":"Flagstaff",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.05298000000001,
+    18.06482,
+    -63.05298000000001,
+    18.06482
+],
+  "geometry": {"coordinates":[-63.05298000000001,18.06482],"type":"Point"}
+}

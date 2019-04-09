@@ -1,0 +1,60 @@
+{
+  "id": 1209429509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.14233,18.06959,-63.14233,18.06959",
+    "geom:latitude":18.06959,
+    "geom:longitude":-63.14233,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Les Terres Basses",
+    "gn:country_code":"MF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984526,
+    "gn:latitude":18.06959,
+    "gn:longitude":-63.14233,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Les Terres Basses",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Terres Basses"
+    ],
+    "name:fra_x_variant":[
+        "Les Terres Basses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984526
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"fe382e1b899ecc642bec5e2a934af125",
+    "wof:hierarchy":[],
+    "wof:id":1209429509,
+    "wof:lastmodified":1537664561,
+    "wof:name":"Les Terres Basses",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.14233,
+    18.06959,
+    -63.14233,
+    18.06959
+],
+  "geometry": {"coordinates":[-63.14233,18.06959],"type":"Point"}
+}

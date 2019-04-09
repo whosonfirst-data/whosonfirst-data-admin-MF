@@ -1,0 +1,70 @@
+{
+  "id": 1343579529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.07794,18.06489,-63.07794,18.06489",
+    "geom:latitude":18.06489,
+    "geom:longitude":-63.07794,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Concordia",
+    "gn:country_code":"MF",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984577,
+    "gn:latitude":18.06489,
+    "gn:longitude":-63.07794,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Concordia",
+    "gn:population":0,
+    "gn:timezone":"America/Marigot",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Concordia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984577
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"c5ed9901eceadffae40307ae95e9dfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1343579529,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343579529,
+    "wof:lastmodified":1537664561,
+    "wof:name":"Concordia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.07794000000001,
+    18.06489,
+    -63.07794000000001,
+    18.06489
+],
+  "geometry": {"coordinates":[-63.07794000000001,18.06489],"type":"Point"}
+}

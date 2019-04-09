@@ -1,0 +1,70 @@
+{
+  "id": 1243278551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.0446,18.06004,-63.0446,18.06004",
+    "geom:latitude":18.06004,
+    "geom:longitude":-63.0446,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Belle Plaine",
+    "gn:country_code":"MF",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985389,
+    "gn:latitude":18.06004,
+    "gn:longitude":-63.0446,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Belle Plaine",
+    "gn:population":0,
+    "gn:timezone":"America/Lower_Princes",
+    "iso:country":"MF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belle Plaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1126128723,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985389
+    },
+    "wof:country":"MF",
+    "wof:geomhash":"3020db8d4365c3db5a6e2ad1291aeed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":1126128723,
+            "empire_id":136253037,
+            "locality_id":1243278551,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243278551,
+    "wof:lastmodified":1537664562,
+    "wof:name":"Belle Plaine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.0446,
+    18.06004,
+    -63.0446,
+    18.06004
+],
+  "geometry": {"coordinates":[-63.0446,18.06004],"type":"Point"}
+}
