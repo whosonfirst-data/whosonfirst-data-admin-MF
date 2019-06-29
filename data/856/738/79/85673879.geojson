@@ -27,7 +27,7 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Svat\u00fd Martin"
     ],
     "name:dan_x_preferred":[
@@ -75,7 +75,7 @@
     "name:por_x_variant":[
         "S\u00e3o Martinho"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Insula Sf\u00e2ntul Martin"
     ],
     "name:spa_x_preferred":[
@@ -213,7 +213,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553558106,
+    "wof:lastmodified":1561840609,
     "wof:name":"St. Martin",
     "wof:parent_id":1126128723,
     "wof:placetype":"region",
