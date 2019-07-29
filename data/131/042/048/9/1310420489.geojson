@@ -25,8 +25,20 @@
     "iso:country":"MF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Saint-James"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-James"
+    ],
     "name:fra_x_preferred":[
         "Saint-James"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-James"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u96c5\u59c6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310420489,
-    "wof:lastmodified":1537664561,
+    "wof:lastmodified":1564297744,
     "wof:name":"Saint-James",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
