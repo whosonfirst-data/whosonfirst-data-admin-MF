@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":18.081302,
     "lbl:longitude":-63.0494,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.081302,
     "mps:longitude":-63.0494,
     "mz:hierarchy_label":1,
@@ -258,7 +259,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arrondissement de Saint-Martin-Saint-Barth\u00e9lemy"
     ],
     "name:urd_x_preferred":[
@@ -358,9 +359,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"53",
     "statoids:area_mi":"20",
     "statoids:as_of_date":"2010-01-01",
@@ -385,7 +386,7 @@
         "gn:id":3578419,
         "gp:id":56042305,
         "hasc:id":"MF.SM",
-        "qs:id":482974,
+        "qs_pg:id":482974,
         "wd:id":"Q25596"
     },
     "wof:country":"MF",
@@ -400,20 +401,16 @@
         }
     ],
     "wof:id":85673879,
-    "wof:lang":[
-        "fra"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563576079,
+    "wof:lastmodified":1566603424,
     "wof:name":"St. Martin",
     "wof:parent_id":1126128723,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"overseas collectivity of FR",
     "wof:population":37630,
     "wof:population_rank":7,
