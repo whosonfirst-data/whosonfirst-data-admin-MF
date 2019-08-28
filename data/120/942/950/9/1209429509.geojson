@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Marigot",
     "iso:country":"MF",
+    "lbl:bbox":"-63.16233,18.04959,-63.12233,18.08959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Terres Basses"
     ],
@@ -41,7 +45,7 @@
     "wof:geomhash":"fe382e1b899ecc642bec5e2a934af125",
     "wof:hierarchy":[],
     "wof:id":1209429509,
-    "wof:lastmodified":1537664561,
+    "wof:lastmodified":1566603425,
     "wof:name":"Les Terres Basses",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

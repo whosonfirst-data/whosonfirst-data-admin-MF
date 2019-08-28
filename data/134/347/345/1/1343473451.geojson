@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Marigot",
     "iso:country":"MF",
+    "lbl:bbox":"-63.05833,18.04322,-63.01833,18.08322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bloomingdale"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1343473451,
-    "wof:lastmodified":1564297739,
+    "wof:lastmodified":1566603424,
     "wof:name":"Bloomingdale",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
