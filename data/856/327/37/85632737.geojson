@@ -193,6 +193,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"MF",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"5a65e7bb1e8388b4bfab0303caeb0693",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561840609,
+    "wof:lastmodified":1582393295,
     "wof:name":"Saint Martin",
     "wof:parent_id":1126128723,
     "wof:placetype":"region",
