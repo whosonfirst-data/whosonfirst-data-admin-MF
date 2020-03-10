@@ -362,9 +362,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            663
-        ],
+        "digitalenvoy:country_code":663,
         "gp:id":56042305,
         "qs_pg:id":482974,
         "wd:id":"Q25596"
@@ -389,7 +387,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529177,
+    "wof:lastmodified":1583797384,
     "wof:name":"Saint Martin",
     "wof:parent_id":102191575,
     "wof:placetype":"dependency",
