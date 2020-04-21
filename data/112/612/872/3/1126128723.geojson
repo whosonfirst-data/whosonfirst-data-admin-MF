@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004908,
-    "geom:area_square_m":57690875.86949,
+    "geom:area_square_m":57690834.772484,
     "geom:bbox":"-63.15464,18.046288,-62.971249,18.126278",
     "geom:latitude":18.080245,
     "geom:longitude":-63.061627,
@@ -46,6 +46,9 @@
     "name:dan_x_preferred":[
         "Saint Martin"
     ],
+    "name:deu_ch_x_preferred":[
+        "St. Martin"
+    ],
     "name:deu_x_preferred":[
         "St. Martin"
     ],
@@ -55,6 +58,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03c1\u03c4\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Saint Martin"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Saint Martin"
     ],
     "name:eng_x_preferred":[
         "Saint Martin"
@@ -223,6 +232,9 @@
     "name:sqi_x_preferred":[
         "Sh\u00ebn Martini"
     ],
+    "name:srd_x_preferred":[
+        "Saint Martin"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u041c\u0430\u0440\u0442\u0438\u043d"
     ],
@@ -264,6 +276,9 @@
     ],
     "name:war_x_preferred":[
         "Saint Martin"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u9a6c\u4e01\u5c9b"
     ],
     "name:yor_x_preferred":[
         "Saint Martin"
@@ -387,7 +402,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583797384,
+    "wof:lastmodified":1587428696,
     "wof:name":"Saint Martin",
     "wof:parent_id":102191575,
     "wof:placetype":"dependency",
