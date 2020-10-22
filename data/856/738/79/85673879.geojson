@@ -11,7 +11,6 @@
     "geom:bbox":"-63.1468399726,18.0333914724,-63.0107315748,18.1221377626",
     "geom:latitude":18.07762,
     "geom:longitude":-63.055071,
-    "gn:id":"",
     "iso:country":"MF",
     "label:eng_x_preferred_longname":[
         "St. Martin Overseas Collectivity"
@@ -407,7 +406,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566603424,
+    "wof:lastmodified":1603265762,
     "wof:name":"St. Martin",
     "wof:parent_id":1126128723,
     "wof:placetype":"region",
