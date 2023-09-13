@@ -458,7 +458,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wd",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "wd:wordcount":3454,
     "wof:belongsto":[
         102191575,
@@ -492,7 +492,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694493030,
+    "wof:lastmodified":1694639811,
     "wof:name":"Saint Martin",
     "wof:parent_id":102191575,
     "wof:placetype":"dependency",
