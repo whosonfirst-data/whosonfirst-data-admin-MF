@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004908,
-    "geom:area_square_m":57690834.772484,
+    "geom:area_square_m":57690834.772472,
     "geom:bbox":"-63.15464,18.046288,-62.971249,18.126278",
     "geom:latitude":18.080245,
     "geom:longitude":-63.061627,
     "iso:country":"MF",
+    "label:eng_x_preferred_placetype":[
+        "overseas territorial collectivity"
+    ],
     "lbl:latitude":18.082858,
     "lbl:longitude":-63.059398,
     "lbl:max_zoom":8.0,
@@ -454,6 +457,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2019",
     "wd:wordcount":3454,
     "wof:belongsto":[
         102191575,
@@ -472,7 +477,7 @@
         "wof:parent_id"
     ],
     "wof:country":"MF",
-    "wof:geomhash":"9191486af9892054d47e3e9b818aeeef",
+    "wof:geomhash":"7b44555eb80454c9230cc1917c745a13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -487,13 +492,15 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939371,
+    "wof:lastmodified":1694639811,
     "wof:name":"Saint Martin",
     "wof:parent_id":102191575,
     "wof:placetype":"dependency",
     "wof:placetype_alt":[
         "region"
     ],
+    "wof:population":32489,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mf",
     "wof:superseded_by":[],
     "wof:supersedes":[
