@@ -468,10 +468,12 @@
     "wof:concordances":{
         "digitalenvoy:country_code":663,
         "gp:id":56042305,
+        "iso:code":"MF",
         "ne:id":1159320639,
         "qs_pg:id":482974,
         "wd:id":"Q25596"
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -492,7 +494,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639811,
+    "wof:lastmodified":1695881383,
     "wof:name":"Saint Martin",
     "wof:parent_id":102191575,
     "wof:placetype":"dependency",
